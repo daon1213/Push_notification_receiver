@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "689051804921",
+    "project_id": "push-notification-receiv-4577a",
+    "storage_bucket": "push-notification-receiv-4577a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689051804921:android:d95eca196529f8a151ae28",
+        "android_client_info": {
+          "package_name": "com.daon.push_part2_01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689051804921-lie6lct5gprqvl1qij350s9rs4dq1k1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7M3IzVh9aLb0DJCDlsJUx9pG6PF2n93Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689051804921-lie6lct5gprqvl1qij350s9rs4dq1k1b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
